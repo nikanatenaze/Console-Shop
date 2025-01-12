@@ -19,6 +19,7 @@ Using instructions:
   After dawnloading you need to do:
   - Open project with any Code program
   - Change sql database location on your own (in DataContext SqlConfiguring method)
+  - Install and dawnload sql entity framework extensions
   
   Note:
   The base is fistly cleared and you need to fill them!
